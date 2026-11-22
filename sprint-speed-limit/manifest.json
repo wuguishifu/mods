@@ -1,0 +1,9 @@
+{
+  "name": "SprintSpeedLimit",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Caps how many sprint speed upgrades a player can have. Extra upgrades are consumed with no effect. Limit is configurable.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
