@@ -1,0 +1,9 @@
+{
+  "name": "PingSystem",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Press middle mouse to ping enemies, valuables, items or spots. Pings are shared with your team and visible through walls.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
